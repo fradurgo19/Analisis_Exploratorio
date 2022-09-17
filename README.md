@@ -72,7 +72,7 @@ Pandas is an open source, BSD-licensed library providing high-performance, easy-
     
     skew(total_wine['alcohol'])
     
- ## 10.   KNeighborsClassifier-accuracy_score.
+ ## 10.   KNeighborsClassifier-accuracy_score 🔩
     
     model_names=['KNearestNeighbors']
     acc=[]
